@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamchauhan21&label=Profile%20views&color=0e75b6&style=flat" alt="shivamchauhan21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhan21shivam&label=Profile%20views&color=0e75b6&style=flat" alt="chauhan21shivam" /> </p>
 
 
 - 🔭 I’m currently working on `Something Intresting`.
@@ -20,7 +20,7 @@
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-- 📫 How to reach me `shivamchauhan58371@gmail.com`
+- 📫 How to reach me `chauhan21shivam@gmail.com`
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
