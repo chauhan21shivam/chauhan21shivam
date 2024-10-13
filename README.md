@@ -39,8 +39,8 @@
 
 ## 📊 My GitHub Data:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamchauhan21&show_icons=true&locale=en&layout=compact" alt="shivamchauhan21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhan21shivam&show_icons=true&locale=en&layout=compact" alt="shivamchauhan21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamchauhan21&show_icons=true&locale=en" alt="shivamchauhan21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhan21shivam&show_icons=true&locale=en" alt="shivamchauhan21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan21&" alt="shivamchauhan21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauhan21shivam&" alt="shivamchauhan21" /></p>
